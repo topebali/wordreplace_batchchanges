@@ -1,5 +1,5 @@
 # Switcher for implementing switch case options
-def employee_details(ID):
+def staff_details(ID):
     switcher = {
         "1004": "Employee Name: MD. Mehrab",
         "1009": "Employee Name: Mita Rahman",  
@@ -12,4 +12,4 @@ def employee_details(ID):
 # Take the employee ID
 ID = input("Enter the employee ID: ")
 # Print the output
-print(employee_details(ID))
+print(staff_details(ID))
