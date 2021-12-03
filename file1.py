@@ -3,14 +3,14 @@ val1 = True
 print(val1)
 
 # Number to Boolean
-number = 10
-print(bool(number))
+num1 = 10
+print(bool(num1))
 
-number = -5
-print(bool(number))
+num1 = -5
+print(bool(num1))
 
-number = 0
-print(bool(number))
+num1 = 0
+print(bool(num1))
 
 # Boolean from comparison operator
 val1 = 6
